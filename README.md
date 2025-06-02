@@ -1,8 +1,8 @@
 # Exp No 7: Edge-Linking-using-Hough-Transform
 
-### Name: Amaljosh Maadhav J
-### Register No: 212223230012
-### Date:
+### Name: Ashwina K N
+### Register No: 212223230025
+
 
 ## Aim:
 To write a Python program to detect the lines using Hough Transform.
